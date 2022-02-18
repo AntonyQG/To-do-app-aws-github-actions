@@ -2,7 +2,7 @@
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
     <HelloWorld
-      msg="Welcome to Vue.js App Deployed on AWS and automatized with GitHub Actions"
+      msg="Welcome to Vue.js App Deployed on AWS and automatized with GitHub Actions."
     />
   </div>
 </template>
